@@ -1,5 +1,10 @@
 **Adverse Event Analysis in Food and Cosmetics Industry**
 
+**Tableau Link For Dashboard and Analysis Work**
+
+_https://public.tableau.com/app/profile/shraddha.mane3683/viz/Shraddha_Mane_Tableau_part2/Dashboard1?publish=yes_
+
+
 **Objective:**
 
 The objective of this analysis is to gain comprehensive insights into adverse events associated with foods, dietary supplements, 
